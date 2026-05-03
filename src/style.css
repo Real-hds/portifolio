@@ -123,7 +123,7 @@ button{
     height: 1cm;
 }
 #about{
-    background-color: #440d0d9c;
+    background-color: #440d0d00;
     color: green;
     margin: auto;
     width: 30cm;
@@ -154,7 +154,7 @@ p{
 #typing{
     color: aqua;
     width: 0px;
-    animation: type 17s steps(100) forwards;
+    animation: type 7s steps(100) forwards;
     overflow: hidden;
     border-right: 2px solid aqua;
     text-align: center;
@@ -169,3 +169,7 @@ footer{
     height: 10%;
     background-color: rgb(0, 255, 98);
 }
+ul li a{
+    text-decoration: none;
+    color: yellowgreen;
+}ul{list-style-type: disc;}
