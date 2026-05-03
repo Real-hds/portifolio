@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="61px" height="79px" viewBox="0 0 61 79" enable-background="new 0 0 61 79" xml:space="preserve">
+<symbol  id="Loading_1" viewBox="-18 -17.999 36 35.998">
+	<polygon fill="#231F20" points="1.5,9.999 -1.5,9.999 -1.5,17.999 1.5,17.999 	"/>
+	<polygon fill="#BBBDBF" points="-3.701,9.411 -6.299,7.911 -10.3,14.839 -7.701,16.339 	"/>
+	<polygon fill="#BBBDBF" points="-7.91,6.3 -9.41,3.7 -16.34,7.702 -14.84,10.3 	"/>
+	<polygon fill="#BBBDBF" points="-10.001,1.501 -10.001,-1.499 -18,-1.499 -18,1.501 	"/>
+	<polygon fill="#BBBDBF" points="-9.41,-3.7 -7.91,-6.298 -14.84,-10.298 -16.34,-7.7 	"/>
+	<polygon fill="#BBBDBF" points="-6.299,-7.909 -3.702,-9.409 -7.701,-16.339 -10.3,-14.839 	"/>
+	<polygon fill="#A6A8AB" points="-1.5,-9.999 1.5,-9.999 1.5,-17.999 -1.5,-17.999 	"/>
+	<polygon fill="#929497" points="3.699,-9.411 6.299,-7.909 10.297,-14.839 7.7,-16.339 	"/>
+	<polygon fill="#808284" points="7.91,-6.3 9.41,-3.7 16.337,-7.702 14.838,-10.298 	"/>
+	<polygon fill="#6D6E70" points="10,-1.501 10,1.501 17.998,1.499 18,-1.499 	"/>
+	<polygon fill="#59595B" points="9.41,3.7 7.91,6.3 14.837,10.298 16.338,7.702 	"/>
+	<polygon fill="#414142" points="6.299,7.911 3.699,9.411 7.7,16.339 10.299,14.839 	"/>
+</symbol>
+<use xlink:href="#Loading_1"  width="36" height="35.998" x="-18" y="-17.999" transform="matrix(1 0 0 -1 29.1364 35.6364)" overflow="visible"/>
+</svg>

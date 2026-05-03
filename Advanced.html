@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+    <a href="index.html">
+        <button class="return"><img src="icons/back.svg" width="100" height="100" style="margin-left: -0.5cm;margin-top: -0.2cm;"></button>
+    </a><h1 style="position: fixed;color: white;font-weight: 1000;font-family: sans-serif;margin-top:-3cm;text-align: center;margin-left: 12cm;">Register or Sign In <br>to continue</h1>
+    <div class="body">
+        <h2 class="h2">SIGN UP FORM</h2>
+        <div id="ip">
+            <label for="name">Full names:</label><br>
+            <input type="text" id="names" placeholder="Enter your names" required><br><br>
+            <label for="user">User Name:</label><br>
+            <input type="text" maxlength="7" id="user" placeholder="Enter your User name here" required><br><br>
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" placeholder="Enter your password here" required><br><br>
+            <label for="mail">E-mail:</label><br>
+            <input type="email" id="email" placeholder="Write your Email there" required><br><br>
+            <input type="submit" value="Submmit" class="button" onsubmit="FormValidation()">
+            <div id="message"></div>
+            <script src="script.js"></script>
+        </div>
+    </div>
+    <div class="body">
+        <h2>SIGN IN FORM</h2>
+        <div class="ip">
+            <label for="name">User name:</label><br>
+            <input type="text" id="u-names" placeholder="Enter User name" required><br><br>
+            <label for="age">Password:</label><br>
+            <input type="password" id="age" placeholder="Enter your password here" required><br><br>
+            <input type="button" value="Sign In" class="button" onclick="FormValid()">
+            <div id="mess"></div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="61px" height="79px" viewBox="0 0 61 79" enable-background="new 0 0 61 79" xml:space="preserve">
+<symbol  id="Lock" viewBox="-25 -31.942 50 63.885">
+	<path d="M23,0.058h-5v14.021h-0.007C17.92,23.956,9.895,31.942,0,31.942s-17.92-7.986-17.993-17.863H-18V0.058h-5c-1.1,0-2-0.9-2-2
+		v-28c0-1.1,0.9-2,2-2h46c1.1,0,2,0.9,2,2v28C25-0.843,24.1,0.058,23,0.058z M-11,14.079c0-0.018,0.007-0.035,0.007-0.053
+		C-10.949,20.046-6.018,24.942,0,24.942s10.948-4.896,10.993-10.916c0,0.017,0.007,0.035,0.007,0.053V0.058h-22V14.079z
+		 M3.763-21.003h-7.525l2.417,7.045c-1.539,0.553-2.646,2.01-2.646,3.74c0,2.205,1.786,3.99,3.991,3.99s3.991-1.785,3.991-3.99
+		c0-1.73-1.106-3.188-2.646-3.74L3.763-21.003z"/>
+</symbol>
+<use xlink:href="#Lock"  width="50" height="63.885" x="-25" y="-31.942" transform="matrix(0.6364 0 0 -0.662 31.5354 41.0025)" overflow="visible"/>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<symbol  id="Icon_2_-_Left" viewBox="-31 -25.103 173.139 113.496">
+	
+		<radialGradient id="SVGID_1_" cx="2566.8252" cy="28577.4258" r="20.9992" gradientTransform="matrix(1.4762 0 0 0.2143 -3789.1472 -6144.7451)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0982" style="stop-color:#DFDCDB;stop-opacity:0.85"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path fill="url(#SVGID_1_)" d="M31-20.605c0-2.484-13.881-4.498-31-4.498c-17.121,0-31,2.014-31,4.498
+		c0,2.486,13.879,4.502,31,4.502C17.119-16.103,31-18.118,31-20.605z"/>
+	<g>
+		<g>
+			<radialGradient id="SVGID_2_" cx="59.2754" cy="34.7483" r="69.149" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.5744" style="stop-color:#000000;stop-opacity:0"/>
+				<stop  offset="0.7977" style="stop-color:#000000;stop-opacity:0.6512"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0.95"/>
+			</radialGradient>
+			<polygon fill="url(#SVGID_2_)" points="-23.089,34.748 57.211,87.467 57.211,52.903 141.64,52.903 141.64,16.589 57.211,16.584 
+				57.211,-17.971 			"/>
+			<g>
+				<path fill="#FFFFFF" d="M56.711,86.541V53.403v-1h1h83.428V17.088l-83.428-0.005l-1,0v-1v-33.128l-78.889,51.793L56.711,86.541
+					 M57.711,88.394L-24,34.748l81.711-53.646v34.981l84.428,0.005v37.315H57.711V88.394L57.711,88.394z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<radialGradient id="SVGID_3_" cx="94.375" cy="50.4424" r="38.1175" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.5744" style="stop-color:#000000;stop-opacity:0"/>
+					<stop  offset="0.7977" style="stop-color:#000000;stop-opacity:0.6512"/>
+					<stop  offset="1" style="stop-color:#000000;stop-opacity:0.95"/>
+				</radialGradient>
+				<polygon fill="url(#SVGID_3_)" points="135.717,19.022 135.717,48.755 50.572,48.755 50.572,79.775 53.757,81.862 
+					53.757,50.465 138.178,50.465 138.178,19.022 				"/>
+				<g>
+					<path fill="#FFFFFF" d="M53.256,80.937V53.403v-2.438v-1h1h3.454h79.967V19.522h-1.461v28.733v1h-1H53.56h-2.488v1.457v28.792
+						L53.256,80.937 M54.256,82.788l-4.185-2.743V50.712v-2.457h3.488h81.657V18.522h3.461v32.443H57.711h-3.454v2.438V82.788
+						L54.256,82.788z"/>
+				</g>
+			</g>
+			<g>
+				<radialGradient id="SVGID_4_" cx="52.1646" cy="1.335" r="9.7534" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.5744" style="stop-color:#000000;stop-opacity:0"/>
+					<stop  offset="0.7977" style="stop-color:#000000;stop-opacity:0.6512"/>
+					<stop  offset="1" style="stop-color:#000000;stop-opacity:0.95"/>
+				</radialGradient>
+				<polygon fill="url(#SVGID_4_)" points="50.572,-10.278 50.572,15.036 53.757,15.036 53.757,-12.366 				"/>
+				<g>
+					<path fill="#FFFFFF" d="M53.256,14.536v-25.976l-2.185,1.432v23.087v1.457H53.256 M54.256,15.536H53.56h-3.488v-2.457v-23.627
+						l4.185-2.743V15.536L54.256,15.536z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<radialGradient id="SVGID_5_" cx="44.2407" cy="44.2712" r="51.4278" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.5744" style="stop-color:#000000;stop-opacity:0"/>
+				<stop  offset="0.7977" style="stop-color:#000000;stop-opacity:0.6512"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0.95"/>
+			</radialGradient>
+			<path fill="url(#SVGID_5_)" d="M-18.019,34.748L53.75,81.867V50.465h52.75C68.642,40.713,38.304,24.497,24.739,6.676
+				L-18.019,34.748z"/>
+			<g>
+				<path fill="#FFFFFF" d="M53.25,80.94V50.965v-1h1h48.411C66.687,40.168,37.936,24.524,24.625,7.349l-41.733,27.399L53.25,80.94
+					 M54.25,82.793l-73.18-48.045L24.856,6.001c13.237,17.721,44.78,35.043,85.706,44.963H54.25V82.793L54.25,82.793z"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<use xlink:href="#Icon_2_-_Left"  width="173.139" height="113.496" id="XMLID_1_" x="-31" y="-25.103" transform="matrix(3.3287 0 0 -2.9594 120.4771 445.2821)" overflow="visible"/>
+</svg>

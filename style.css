@@ -1,0 +1,171 @@
+header{
+    height: 4cm;
+    background: linear-gradient(yellowgreen,rgb(123, 255, 0));
+    border: none;
+    border-radius: 3px;
+    margin: auto;
+    text-align: center;
+}
+body{background: #494949;animation: bgc 20s ease-out infinite;}
+@keyframes bgc {
+    from{background: linear-gradient(gray,black);}
+    to{background: radial-gradient(black,grey);}
+}
+.section1{
+    color: white;
+    font-family: sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    margin-left: 7cm;
+}
+.div{
+    display: flex;
+    gap: 16cm;
+    text-align: center;
+    margin: auto;
+}
+.navigation-menu{
+    background-color: rgba(0, 128, 0, 0.253);
+    padding-top: 0.3cm;
+    padding-bottom: 0.3cm;
+    border-radius: 10px;
+    position: sticky;
+    top: 20px;
+}
+ul{display: flex;list-style: none;gap: 2cm;}
+nav ul li a{
+    text-decoration: none;
+    border: 2px solid yellowgreen;
+    border-radius: 30px;
+    padding: 7px;
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+    background-color: #ffffff00;
+    backdrop-filter: blur(49px);
+}.vcl{margin-left: 7cm;}
+nav ul li a:hover{background-color: yellowgreen;inset-block-start: 12px;}
+.top{
+    background-color: rgb(0, 255, 55);
+    border-radius: 50px;
+    width: 2cm;
+    height: 2cm;
+    border: none;
+    box-shadow: 0 0 72px rgb(0, 255, 0);
+    margin-top: 8cm;
+    margin-left: 32cm;
+    font-size: xx-large;
+    position: fixed;
+    color: white;
+}
+.title{
+    background-image: url(mountain.png);
+    background-repeat: no-repeat;
+    background-size: 28cm;
+    text-align: center;
+    background-clip: text;
+    color: rgba(0, 128, 0, 0.534);
+    font-size: 70px;
+    position: sticky;
+    top: 6cm;
+    bottom: 12cm;
+}
+.body{
+    background-color: rgba(127, 255, 212, 0);
+    text-align: center;
+}
+.but{display: flex;gap: 1cm;margin: auto;}    
+.button{
+    width: 7cm;
+    height: 1cm;
+    border: none;
+    border-radius: 16px;
+    background-image: url(mountain.png);
+    color: rgb(2, 37, 2);
+    font-family: sans-serif;
+    font-weight: 900;
+}#projects{text-align: center;font-family: monospace;font-weight: bold;}
+#buttonn{width: 5cm;height: 1cm;border: none;border-radius: 16px;border-end-end-radius: 2px;display: none;margin-left: -15cm;margin-right: 12cm;background-color: lightgreen;}
+#buttonn:hover{background-color: green;}
+#buttons{width: 5cm;height: 1cm;border: none;border-radius: 16px;border-end-start-radius: 2px;display: none;margin-left: 8cm;background-color: lightgreen;}
+#buttons:hover{background-color: green;}
+.ads{
+    position: sticky;
+    top:12cm;
+    bottom: -2cm;
+    background-color: rgb(27, 25, 25);
+    width: 24cm;
+    height: 5cm;
+    border: none;
+    border-radius: 10px;
+    margin-top: -4cm;
+    margin-left: 6.5cm;
+    display: flex;
+    gap: 1.5cm;
+    padding: 0.5cm;
+}
+.content{
+    width: 7cm;
+    border-radius: 10px;
+    border-bottom: 5px solid green;
+    background-color: rgb(254, 255, 255);
+    height: 5cm;
+    font-family: sans-serif;
+}
+button{
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    width: 5cm;
+    height: 1cm;
+}
+#about{
+    background-color: #440d0d9c;
+    color: green;
+    margin: auto;
+    width: 30cm;
+    height: 10cm;
+    font-family: sans-serif;
+    padding: 1cm;
+    padding-top: 7cm;
+}
+.ab{
+    text-align: center;
+    background: linear-gradient(red,white,orange);
+    color: rgba(0, 128, 0, 0.712);
+    background-clip: text;
+}
+p{
+    margin-left: 30%;
+}
+/*loading zone starts here*/
+.O{background-color: white;width: 80%;height: 0.4cm;border: none;border-radius: 15px;margin: auto;}
+.o{background-color: green;height: 0.4cm;border: none;border-radius: 15px;animation: ml 49s ease-in-out forwards;width: 7cm;}
+.t{display: flex; align-items: center; gap: 8px;}
+.oo{background-color: green;height: 0.4cm;border: none;border-radius: 15px;animation: ml 49s ease-in-out forwards;width:2cm;}
+.ooo{background-color: green;height: 0.4cm;border: none;border-radius: 15px;animation: ml 49s ease-in-out forwards;width: 5cm;}
+@keyframes ml{
+    to{width: 30cm;}
+}
+/*loading zone ends here*/
+#typing{
+    color: aqua;
+    width: 0px;
+    animation: type 17s steps(100) forwards;
+    overflow: hidden;
+    border-right: 2px solid aqua;
+    text-align: center;
+}
+@keyframes type {
+    to{width: 1200px;}
+}
+/*footer*/
+.owner{color: greenyellow;}
+footer{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(0, 255, 98);
+}
